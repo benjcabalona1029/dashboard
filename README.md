@@ -5,4 +5,4 @@
 The best way to use this notebook is by clicking on the binder logo, so that you can use the interactive capabilities of the notebook.
 This will render a dashboard powered by Jupyter and Voila.
 
-![](crossfilter.gif)
+![](crossfilters.gif)
