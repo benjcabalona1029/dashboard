@@ -1,5 +1,9 @@
 pandas
 numpy
+warnings
+seaborn
+ipywidgets
 matplotlib
 altair
 scipy
+
