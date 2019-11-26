@@ -4,6 +4,9 @@ seaborn
 ipywidgets
 matplotlib
 altair
+vega_datasets
+notebook vega
 scipy
 voila
+sklearn
 
